@@ -36,15 +36,6 @@ A Kotlin-based Android application that tracks real-time flight information usin
 - [AviationStack API](https://aviationstack.com/) – For real-time flight data
 - [FlightAware](https://www.flightaware.com/) – For live maps and flight history (via WebView)
 
----
-
-## 📸 Screenshots
-
-| Track Flight Screen | Dashboard View |
-|---------------------|----------------|
-| ![Track Flight](screenshots/track_flight.png) | ![Dashboard](screenshots/dashboard.png) |
-
-> 💡 Add screenshots of your app in the `screenshots/` folder.
 
 ---
 
