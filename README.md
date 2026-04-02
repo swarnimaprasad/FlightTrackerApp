@@ -1,7 +1,7 @@
 
 # ✈️ Flight Tracker & Analysis Android App
 
-A Kotlin-based Android application that tracks real-time flight information using the **AviationStack API**, displays flight details, and embeds **FlightAware** live maps and history. The app also stores flight data using **Room DB** and performs background analysis using **WorkManager**, with a modern dashboard UI built using **Jetpack components**.
+A Kotlin-based Android application which tracks real-time flight information using the **AviationStack API**, displays flight details, and embeds **FlightAware** live maps and history. The app also stores flight data using **Room DB** and performs background analysis using **WorkManager**, with a modern dashboard UI built using **Jetpack components**.
 
 ---
 
